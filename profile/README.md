@@ -4,6 +4,10 @@
 For Saab to continue to be the competitive and innovative company and to continue to be at the forefront, it is vital for us to work with the Open-Source community.
 The extremely high-pace development found in the open-source community cannot be found anywhere else. Building new innovative products based on open-source is here to stay and we’re on it!  
 
+## Job opportunitets
+
 * Working at Saab means stretching technology to its limit. To do what wasn’t possible to do yesterday. Doing what some think is impossible today.
 * Working at Saab is purpose-driven. Keeping people and society safe is in our DNA!
 * Working at Saab means working at the forefront of technology. Join us!
+
+[Working at Saab](https://www.saab.com/career).
