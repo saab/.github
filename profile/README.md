@@ -2,7 +2,8 @@
 
 ## Breaking Technological Boundaries
 For Saab to continue to be the competitive and innovative company and to continue to be at the forefront, it is vital for us to work with the Open-Source community.
-The extremely high-pace development found in the open-source community cannot be found anywhere else. Building new innovative products based on open-source is here to stay and we’re on it!  
+The extremely high-pace development found in the open-source community cannot be found anywhere else.  
+Building new innovative products based on open-source is here to stay and we’re on it!  
 
 ## Job opportunities
 
