@@ -10,4 +10,4 @@ The extremely high-pace development found in the open-source community cannot be
 * Working at Saab is purpose-driven. Keeping people and society safe is in our DNA!
 * Working at Saab means working at the forefront of technology. Join us!
 
-<a href="https://www.saab.com/career" target="_blank">Want to work with the best? Check out all the free positions at Saab, just follow the white rabbit  :)</a>
+<a href="https://www.saab.com/career" target="_blank">Want to work with the best? Follow the white rabbit..</a>
