@@ -1,4 +1,4 @@
-![Saab](banner.jpg)
+![Saab](https://github.com/saab/.github/raw/main/profile/banner.jpg)
 
 ## Breaking Technological Boundaries
 For Saab to continue to be the competitive and innovative company and to continue to be at the forefront, it is vital for us to work with the Open-Source community.
